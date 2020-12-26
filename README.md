@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 (She/Her)
 
 
-📚I am currently a student at SFU pursuing her second degree in Computing Sciences.
+📚I am currently a student at SFU pursuing my second degree in Computing Sciences.
 
 
 👩‍🎓 I graduated from the University of Calgary with Bachelor of Science in Psychology.
