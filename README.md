@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Dula! 👋
+(She/Her)
+📚I am currently a student at SFU pursuing her second degree in Computing Sciences.
+👩‍🎓 I gradutated from the University of Calgary with Bachelor of Science in Psychology.
 
 <!--
 **dpurkays/dpurkays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
