@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(She/Her)
-
-
 📚I am currently a student at SFU pursuing my second degree in Computing Sciences.
 
 
