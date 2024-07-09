@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 👩‍🎓 New CS Grad from Simon Fraser University! \
-👩‍🎓 I graduated from the University of Calgary with a BSc in Psychology.
+👩‍🎓 I also graduated from the University of Calgary with a BSc in Psychology.
