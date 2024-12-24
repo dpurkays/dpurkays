@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me
-I'm a Computer Science graduate from Simon Fraser University, with a BSc in Psychology from the University of Calgary. Passionate about technology and personal growth, I enjoy discovering new approaches to problem-solving and exploring various fields in software development. Always eager to learn, I’m currently diving into TypeScript and Next.js to expand my full-stack skills.
+I'm a Computer Science graduate from Simon Fraser University, with a BSc in Psychology from the University of Calgary. Passionate about technology and personal growth, I enjoy discovering new approaches to problem-solving and exploring various fields in software development. 
 
 ## 💻 Skills
 **Programming Languages**: JavaScipt, Python, Java, C, C++\
