@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me
-I'm a Computer Science graduate from Simon Fraser University and currently a Software Engineering BootCamp student @ BrainStation. I also hold a BSc in Psychology from the University of Calgary. I'm passionate about technology and personal growth, I enjoy discovering new approaches to problem-solving and exploring various fields in software development. 
+I'm a Computer Science graduate from Simon Fraser University and currently a *Software Engineering BootCamp student @ BrainStation*. I also hold a BSc in Psychology from the University of Calgary. I'm passionate about technology and personal growth, I enjoy discovering new approaches to problem-solving and exploring various fields in software development. 
 
 ## 💻 Skills
 **Programming Languages**: JavaScipt, Python, Java, C, C++\
@@ -25,13 +25,13 @@ I'm a Computer Science graduate from Simon Fraser University and currently a Sof
 **Database**: MongoDB, MySQL
 
 ### 🌱 I’m currently learning 
-At BrainStation, I'm diving deeper into full-stack development, working on collaborative projects and sharpening my problem-solving and coding skills.
+At BrainStation, I'm diving deeper into full-stack development and sharpening my problem-solving and coding skills. Stay tuned for exciting projects I'll be showcasing soon!
 
 *Le humour*\
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 ## 🎨Hobbies
-- Crochet (I started this fall!)
+- Crochet *(I started this fall!)*
 - Bullet Journaling
 - Watercolor painting
 - Reading manhwas and mangas
