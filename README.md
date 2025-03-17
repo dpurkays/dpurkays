@@ -31,7 +31,7 @@ At BrainStation, I'm diving deeper into full-stack development and sharpening my
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 ## 🎨Hobbies
-- Crochet *(I started this fall!)*
+- Crochet *(I started last fall!)*
 - Bullet Journaling
 - Watercolor painting
 - Reading manhwas and mangas
