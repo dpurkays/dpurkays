@@ -20,7 +20,7 @@ I'm a Computer Science graduate from Simon Fraser University and currently a *So
 
 ## 💻 Skills
 **Programming Languages**: JavaScipt, Python, Java, C, C++\
-**Frontend**: React JS, HTML, CSS, Material UI\
+**Frontend**: React JS, HTML, CSS, Sass, Material UI\
 **Backend**: Node.js, Express.js, Mocha, Chai, REST API\
 **Database**: MongoDB, MySQL
 
