@@ -16,28 +16,33 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me
-I'm a Computer Science graduate from Simon Fraser University and currently a *Software Engineering BootCamp student @ BrainStation*. I also hold a BSc in Psychology from the University of Calgary. I'm passionate about technology and personal growth, I enjoy discovering new approaches to problem-solving and exploring various fields in software development. 
+I recently graduated from BrainStation’s intensive Software Engineering Bootcamp, with a background in Computer Science (Simon Fraser University) and Psychology (University of Calgary). My lifelong passion for technology led me to revisit this field, where I discovered the joy of turning ideas into reality through software development. I'm passionate about personal growth and love exploring new problem-solving approaches across software development areas. 
+
+## 🚀 Currently
+I’m exploring full-time opportunities as a Software Engineer, with a focus on full-stack development. I’m eager to keep learning, contribute meaningfully, and grow with a team that values curiosity and creativity.
 
 ## 💻 Skills
-**Programming Languages**: JavaScipt, Python, Java, C, C++\
+**Programming Languages**: JavaScript, Python, Java, C, C++\
 **Frontend**: React JS, HTML, CSS, Sass, Material UI\
-**Backend**: Node.js, Express.js, Mocha, Chai, REST API\
-**Database**: MongoDB, MySQL
+**Backend**: Node.js, Express, REST API, Mocha/Chai, Vitest\
+**Database**: MongoDB, MySQL, Knex.js\
+**Tools**: Git, Postman, JIRA 
 
 ### 🌱 I’m currently learning 
-At BrainStation, I'm diving deeper into full-stack development and sharpening my problem-solving and coding skills. Stay tuned for exciting projects I'll be showcasing soon!
+- Typescript
+- Next.js
 
 *Le humour*\
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 ## 🎨Hobbies
-- Crochet *(I started last fall!)*
-- Bullet Journaling
-- Watercolor painting
+- Crochet
+- Bullet Journal
+- Watercolor
 - Reading manhwas and mangas
     - [Auto Scroller Browser Extension](https://github.com/dpurkays/auto-scroller) : I created this browser extension to make reading manhwas and mangas easier, solving common scrolling issues for a seamless reading experience.
 - Anime
-- Kirtan (vedic devotional music)
+- Kirtan (Vedic devotional music)
   
 ## 🔗 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/dula-purkaystha/) – Let's connect professionally!
