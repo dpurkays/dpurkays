@@ -42,6 +42,7 @@ I’m exploring full-time opportunities as a Software Engineer, with a focus on 
 - Reading manhwas and mangas
     - [Auto Scroller Browser Extension](https://github.com/dpurkays/auto-scroller) : I created this browser extension to make reading manhwas and mangas easier, solving common scrolling issues for a seamless reading experience.
 - Anime
+    - [Anime Matchmaker 💖](https://animematchmaker.netlify.app/) : A web app that helps users discover animes they'll love. With so many options, picking your next show can feel overwhelming. This app solves that by recommending animes based on your mood or shows you already enjoy.
 - Kirtan (Vedic devotional music)
   
 ## 🔗 Let's Connect!
