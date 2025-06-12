@@ -26,8 +26,8 @@ I’m exploring full-time opportunities as a Software Engineer, with a focus on 
 
 ## 💻 Skills
 
-**Programming Languages**: JavaScript, Python, Java, C, C++\
-**Frontend**: React JS, HTML, CSS, Sass, Material UI\
+**Programming Languages**: JavaScript, TypeScript, Python, Java, C, C++\
+**Frontend**: React JS, HTML, CSS, Sass, Tailwind CSS, Next.js, Material UI\
 **Backend**: Node.js, Express, REST API, Mocha/Chai, Vitest\
 **Database**: MongoDB, MySQL, Knex.js\
 **Tools**: Git, Postman, JIRA
